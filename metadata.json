@@ -1,0 +1,5 @@
+{
+  "name": "CAVP - Storyboard Image Splitter",
+  "description": "Smartly splits 3x3 grid photos into 9 separate images, automatically removing borders using advanced pixel analysis. Includes Gemini AI integration for image content analysis.",
+  "requestFramePermissions": []
+}
